@@ -1,20 +1,18 @@
 # CONNECTION OF PROJECT
 
-flame sensor to buzzer 
+Arduino   To  flame sensor
 
-Arduino     flame sensor
+5V	 To   VCC
 
-5V	    VCC
+GND	  To  GND
 
-GND	    GND
+7	  To  DO
 
-7	    DO
+Arduino  To  buzzer
 
-Arduino    buzzer
+GND  	To   negative(Small)
 
-GND  	   negative(Small)
-
-8	   positive(Large)
+8	 To  positive(Large)
 
 # ABOUT THE PROJECT
 
